@@ -53,4 +53,4 @@
 
 ## 🧷 참고
 > 스터디 진행 방식은 아래 GitHub을 참고하였습니다!  
-> [!Coding-Village-Protector/woowahan-ts](https://github.com/Coding-Village-Protector/woowahan-ts)
+> [Coding-Village-Protector/woowahan-ts](https://github.com/Coding-Village-Protector/woowahan-ts)
